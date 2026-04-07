@@ -1,8 +1,7 @@
 {
   "lang": "glsl",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-glsl",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
-  "location": null
+  "parser_version": "24a6c8ef698e4480fecf8340d771fbcb5de8fbb4",
+  "location": null,
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-glsl"
 }
